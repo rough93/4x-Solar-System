@@ -1,9 +1,9 @@
 # 4x-Solar-System
 
-4X-Solar-System is a mod that makes the solar system 4 times bigger and tilts it to simulate Kerbin's axial tilt. This makes getting into orbit a bit harder because the rocket requires much more deltaV. 
+4X-Solar-System is a mod that makes the stock solar system 4 times bigger and inclines it to simulate Kerbin's axial tilt. This makes getting into orbit harder because the rocket requires much more deltaV. 
 
-Missions to the Mun are also much harder because the orbit of the Mun is tilted and you have to want for a launch window.
+Missions to the Mun are also much harder because the orbit of the Mun is inclined more realistically, meaning you will have to wait for the best launch window to save long duration missions.
 
-To make the game a bit easyer (and more realistic at the same time) the mod comes with many launch sites to chose from and also for those who use RemoteTech, there are ground stations on kerbin that will help you keep the control over you crafts.
+To make the game a bit easier there are ground stations on kerbinthat will work with Remote Tech to allow more coverage for sattelites.
 
-It's ment for people who think that the stock game is too easy but are not experienced enough to play with RSS and RO.
+This mod is meant for people who think that the stock game is too easy but are not experienced enough to play with RSS and RO.
